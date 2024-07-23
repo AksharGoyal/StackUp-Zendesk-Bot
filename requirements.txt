@@ -1,0 +1,35 @@
+# python-dotenv==1.0.0
+pymongo[srv]
+# streamlit
+
+## LLMs / embeddings
+# openai
+llama-index
+# transformers
+# torch
+# sentence_transformers
+# llama-cpp-python
+# langchain-embeddings
+# langchain-huggingface
+langchain
+langchain-community
+llama-index-embeddings-langchain
+llama-index-llms-langchain
+llama-index-llms-llama-api
+# llama-index-llms-replicate
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-vector-stores-mongodb
+replicate
+## Utils
+certifi
+chardet
+charset-normalizer
+ipykernel
+ipython
+py-cord
+python-dotenv
+reportlab
+requests
+tqdm
+urllib3
