@@ -61,4 +61,4 @@ The command takes a user query as input. Note that it's important the user query
 
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/1f51262c-5f5e-4faa-b710-ec21083ef6b4">  
 
-
+Here is a [demo video](https://www.youtube.com/watch?v=TiNK9wNozuI) on YouTube demonstrating how the bot works.
