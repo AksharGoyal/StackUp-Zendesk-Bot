@@ -53,9 +53,12 @@ python bot.py
 ```  
 While the bot is running in your terminal, go to your discord server and type `/ask`. You will observe that the `ask` command pops up as part of your application's command.  
 
+## Demo
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/2316cc37-f6af-4160-8e72-83bf76f1fc65">  
 
 The command takes a user query as input. Note that it's important the user query is related to StackUp, especially based on its Zendesk's articles. Here are some examples of how the bot would work with user queries:  
 
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/1f51262c-5f5e-4faa-b710-ec21083ef6b4">  
+
 
