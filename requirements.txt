@@ -1,26 +1,22 @@
-# python-dotenv==1.0.0
+## MongoDB
 pymongo[srv]
-# streamlit
 
 ## LLMs / embeddings
-# openai
 llama-index
-# transformers
-# torch
-# sentence_transformers
 # llama-cpp-python
 # langchain-embeddings
 # langchain-huggingface
-langchain
-langchain-community
-llama-index-embeddings-langchain
-llama-index-llms-langchain
+# langchain
+# langchain-community
+# llama-index-embeddings-langchain
+# llama-index-llms-langchain
 llama-index-llms-llama-api
 # llama-index-llms-replicate
 llama-index-llms-huggingface
 llama-index-embeddings-huggingface
 llama-index-vector-stores-mongodb
-replicate
+# replicate
+
 ## Utils
 certifi
 chardet
