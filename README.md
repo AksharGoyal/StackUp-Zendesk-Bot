@@ -19,3 +19,7 @@ At the moment, the bot isn't hosted unfortunately so you may have to test it loc
 
 ## Instructions
 1. Clone the repo
+```sh
+git clone https://github.com/AksharGoyal/StackUp-Zendesk-Bot.git
+```
+
